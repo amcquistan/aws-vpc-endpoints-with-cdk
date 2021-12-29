@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# AWS VPC Endpoints with AWS CDK
 
-This is a blank project for TypeScript development with CDK.
+TypeScript CDK app used for Blog Post [Exploring AWS VPC Endpoints by Examples with AWS CDK](https://thecodinginterface.com/blog/aws-vpc-endpoints-with-cdk/) featured on thecodinginterface.com 
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
